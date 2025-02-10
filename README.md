@@ -76,10 +76,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullokhonz&layout=donut&theme=radical" alt="Top Languages" />
   </a>
 </div>
-<br />
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullokhonz&layout=compact&theme=radical" alt="WakaTime Stats" />
-</div>
 
 ---
 
