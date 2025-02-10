@@ -75,6 +75,9 @@
 
 ### 🎧 Spotify Playing
 
-![spotify-github-profile](/img/default.svg)
+<!-- ![spotify-github-profile](/img/default.svg) -->
+<div align="center">
+  <img src="/img/default_test.svg">
+</div>
 
 ---
