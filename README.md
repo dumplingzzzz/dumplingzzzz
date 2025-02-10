@@ -83,7 +83,7 @@
 
 <!-- ![spotify-github-profile](/img/default.svg) -->
 <div align="center">
-  <img src="/img/default_test.svg">
+  <img src="/img/default_test.svg" alt="spotify_eminem_godzilla">
 </div>
 
 ---
