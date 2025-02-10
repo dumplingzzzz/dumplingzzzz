@@ -7,10 +7,6 @@
 <h1 align="center">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> My name is Abdullokhon.</h1>
 <h3 align="center">✅ Full-Stack | Passion for Development 🔥</h3>
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 ---
 
 <div align="center">
@@ -18,6 +14,10 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=abdullokhonz&color=red&style=rounded&label=Profile%20Views" />
 </div>
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ### 📌 About Me
 
@@ -67,14 +67,19 @@
 
 ---
 
-### 📊 GitHub Statistics & 🧑‍💻 Top Languages  
+### 📊 GitHub Statistics & 🧑‍💻 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullokhonz&layout=compact&theme=radical" alt="Top Languages" style="margin-right: 40px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullokhonz&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-right: 40px;" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullokhonz&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullokhonz&layout=donut&theme=radical" alt="Top Languages" />
+  </a>
 </div>
-<a href="http://www.github.com/abdullokhonz"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=abdullokhonz&bg_color=0f172a&color=ec4899&line=ffffff&point=ec4899&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<br />
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullokhonz&layout=compact&theme=radical" alt="WakaTime Stats" />
+</div>
 
 ---
 
