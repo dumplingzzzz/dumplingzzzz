@@ -15,7 +15,11 @@
   <img src="https://komarev.com/ghpvc/?username=abdullokhonz&color=red&style=rounded&label=Profile%20Views" />
 </div>
 
-### 📌 About Me  
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+### 📌 About Me
 
 💻 **Code is an art, and I strive to make it beautiful.** Full-Stack Developer with a passion for clean architecture, process automation, and creating efficient solutions. In my free time, I experiment with game development and new technologies.  
 
@@ -27,7 +31,7 @@
 
 ---
 
-### 📌 My Skills Set  
+### 📌 My Skills Set
 
 <table><tr><td valign="top" width="50%">  
 
@@ -62,12 +66,6 @@
 </td></tr></table>  
 
 ---
-
-###
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 ### 📊 GitHub Statistics & 🧑‍💻 Top Languages  
 
