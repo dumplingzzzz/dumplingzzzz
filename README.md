@@ -81,12 +81,12 @@
 ### 📞 Connect with me  
 
 <div align="center">
-  <a href="https://t.me/your_username"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://instagram.com/your_username"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your_username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://youtube.com/c/your_channel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://discord.com/users/your_discord_id"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://x.com/your_username"><img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://t.me/your_username"><img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram"/></a>
+  <a href="https://www.instagram.com/your_username"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/your_username"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://discord.gg/your_invite"><img src="https://img.icons8.com/fluency/48/discord.png" alt="Discord"/></a>
+  <a href="https://x.com/your_username"><img src="https://img.icons8.com/ios-filled/50/x.png" alt="X (Twitter)"/></a>
+  <a href="https://www.youtube.com/c/your_channel"><img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube"/></a>
 </div>
 
 ---
