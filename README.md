@@ -104,9 +104,7 @@
 ### 🧑‍💻 Top Languages
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullokhonz&layout=pie&theme=radical" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullokhonz&layout=pie&theme=radical" alt="Top Languages" />
 </div>
 
 ---
