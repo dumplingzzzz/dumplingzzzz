@@ -42,7 +42,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="assets/skills/css3.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="assets/skills/javascript.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="assets/skills/typescript.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="assets/skills/angular_new.svg" alt="Angular" height="50" /></a>  
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="assets/skills/angular.svg" alt="Angular" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="assets/skills/figma.svg" alt="Figma" height="50" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="assets/skills/sass.svg" alt="Sass" height="50" /></a>  
 <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="assets/skills/bootstrap5.svg" alt="Bootstrap" height="50" /></a>  
