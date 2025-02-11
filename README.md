@@ -86,7 +86,7 @@
   <a href="https://www.linkedin.com/in/abdullokhon-ghaibulloev-a24a8430a"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://discord.com/abdullokhonz"><img src="https://img.icons8.com/fluency/48/discord.png" alt="Discord"/></a>
   <a href="https://x.com/abdullokhonz"><img src="https://img.icons8.com/ios-filled/50/x.png" alt="X (Twitter)"/></a>
-  <a href="https://www.youtube.com/c/abdullokhonz"><img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube"/></a>
+  <a href="https://www.youtube.com/@abdullokhonz"><img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube"/></a>
 </div>
 
 ---
