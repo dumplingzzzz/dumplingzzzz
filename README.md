@@ -33,7 +33,7 @@
 
 ### 💪 My Skills Set
 
-<table><tr><td valign="top" width="50%">  
+<table><tr><td valign="top" width="40%">  
 
 ### 🎨 Frontend  
 
@@ -48,7 +48,7 @@
 <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="assets/skills/bootstrap5.svg" alt="Bootstrap" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="50%">  
+</td><td valign="top" width="40%">
 
 ### 🛠 Backend  
 
@@ -61,6 +61,17 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="assets/skills/nodejs.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="assets/skills/django.svg" alt="Django" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="assets/skills/docker.svg" alt="Docker" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="20%">
+
+### 🧑‍💻 Editors  
+
+<div align="center">  
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="assets/editors/VisualStudioCode.svg" alt="VisualStudioCode" height="50" /></a>
+<a href="https://visualstudio.microsoft.com/" target="_blank"><img style="margin: 10px" src="assets/editors/VisualStudio.svg" alt="VisualStudio" height="50" /></a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img style="margin: 10px" src="assets/editors/PyCharm.svg" alt="PyCharm" height="50" /></a>
+<a href="https://www.jetbrains.com/webstorm/" target="_blank"><img style="margin: 10px" src="assets/editors/WebStorm.svg" alt="WebStorm" height="50" /></a>
 </div>
 
 </td></tr></table>
