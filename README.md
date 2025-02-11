@@ -109,19 +109,19 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdullokhonz&theme=radical&column=4&no-frame=false&no-bg=false" alt="GitHub Trophies" />
+</div>
+
+---
+
 ### 🎧 Spotify Playing
 
 <!-- ![spotify-github-profile](/img/default.svg) -->
 <div align="center">
   <img src="/img/default_test.svg" alt="spotify_eminem_godzilla">
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullokhonz&theme=radical&column=4&no-frame=false&no-bg=false" alt="GitHub Trophies" />
 </div>
 
 ---
