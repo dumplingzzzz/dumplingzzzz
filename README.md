@@ -45,7 +45,7 @@
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="assets/skills/angular.svg" alt="Angular" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="assets/skills/figma.svg" alt="Figma" height="50" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="assets/skills/sass.svg" alt="Sass" height="50" /></a>  
-<a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="assets/skills/bootstrap.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="assets/skills/bootstrap5.svg" alt="Bootstrap" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="50%">  
