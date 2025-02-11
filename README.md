@@ -67,13 +67,19 @@
 
 ---
 
-### 📊 GitHub Statistics & 🧑‍💻 Top Languages
+### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullokhonz&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-right: 40px;" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullokhonz&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+</div>
+
+---
+
+### 🧑‍💻 Top Languages
+
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullokhonz&layout=donut&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullokhonz&layout=pie&theme=radical" alt="Top Languages" />
   </a>
 </div>
 
