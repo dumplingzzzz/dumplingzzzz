@@ -95,7 +95,7 @@
 
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=abdullokhonz&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullokhonz&show_icons=true&theme=radical&random=123" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullokhonz&rank_icon=github&show_icons=true&theme=radical&random=123" alt="GitHub Stats" />
 </div>
 
 ---
