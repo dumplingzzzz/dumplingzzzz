@@ -117,3 +117,11 @@
 </div>
 
 ---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdullokhonz&theme=radical" alt="GitHub Trophies" />
+</div>
+
+---
