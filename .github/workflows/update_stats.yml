@@ -1,0 +1,28 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Trigger the action every day at midnight UTC
+  workflow_dispatch:  # Allows manual trigger of the workflow
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Download GitHub stats images
+      run: |
+        curl -o assets/stats/github-stats.svg "https://github-readme-stats.vercel.app/api?username=abdullokhonz&rank_icon=github&show_icons=true&theme=radical"
+        curl -o assets/stats/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=abdullokhonz&layout=pie&theme=radical"
+        curl -o assets/stats/github-trophies.svg "https://github-profile-trophy.vercel.app/?username=abdullokhonz&theme=radical&column=4&no-frame=false&no-bg=false"
+
+    - name: Commit updated stats images
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add assets/stats/github-stats.svg assets/stats/top-langs.svg assets/stats/github-trophies.svg
+        git commit -m "Update stats images: $(date +'%Y-%m-%d')"
+        git push
