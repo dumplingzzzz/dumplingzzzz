@@ -1,32 +1,32 @@
-name: Update FACEIT Widget
+# name: Update FACEIT Widget
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours
-  workflow_dispatch:  # Allows manual trigger
+# on:
+#   schedule:
+#     - cron: "0 */12 * * *"  # Runs every 12 hours
+#   workflow_dispatch:  # Allows manual trigger
 
-jobs:
-  update-widget:
-    runs-on: ubuntu-latest
+# jobs:
+#   update-widget:
+#     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # Добавляем токен для прав на запись
+#     steps:
+#       - name: Checkout repository
+#         uses: actions/checkout@v4
+#         with:
+#           token: ${{ secrets.GITHUB_TOKEN }}  # Добавляем токен для прав на запись
 
-      - name: Download FACEIT widget as an image
-        run: |
-          mkdir -p assets  # Создаём папку, если её нет
-          curl -o assets/faceit_stats.png "https://faceit-widget.pages.dev/widget?nickname=iLLustratorZ&border-radius=24&text-color=ffffff&show-last-20=true&show-ranking=true&show-kd=true&background-color=1f1f22"
+#       - name: Download FACEIT widget as an image
+#         run: |
+#           mkdir -p assets  # Создаём папку, если её нет
+#           curl -o assets/faceit_stats.png "https://faceit-widget.pages.dev/widget?nickname=iLLustratorZ&border-radius=24&text-color=ffffff&show-last-20=true&show-ranking=true&show-kd=true&background-color=1f1f22"
 
-      - name: Commit and push the updated widget
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-          git add assets/faceit_stats.png
-          git commit -m "🔄 Auto-update FACEIT widget" || echo "No changes to commit"
-          git pull --rebase
-          git push origin main
+#       - name: Commit and push the updated widget
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#         run: |
+#           git config --global user.name "github-actions"
+#           git config --global user.email "actions@github.com"
+#           git add assets/faceit_stats.png
+#           git commit -m "🔄 Auto-update FACEIT widget" || echo "No changes to commit"
+#           git pull --rebase
+#           git push origin main
