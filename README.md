@@ -118,7 +118,7 @@
 ### 🏆 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/abdullokhon?ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/abdullokhon?ext=activity" />
 </p>
 
 ---
