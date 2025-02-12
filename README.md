@@ -15,6 +15,9 @@
   <img src="https://komarev.com/ghpvc/?username=abdullokhonz&color=red&style=rounded&label=Profile%20Views" />
 </div>
 
+## 📊 FACEIT Статистика
+![FACEIT Stats](assets/faceit_stats.png)
+
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
