@@ -10,13 +10,9 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/abdullokhonz">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/abdullokhonz?color=red&style=rounded&label=Followers" />
-  </a>
+  <a href="https://github.com/abdullokhonz"><img src="https://custom-icon-badges.demolab.com/github/followers/abdullokhonz?color=red&style=rounded&label=Followers" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/abdullokhonz">
-    <img src="https://komarev.com/ghpvc/?username=abdullokhonz&color=red&style=rounded&label=Profile%20Views" />
-  </a>
+  <a href="https://github.com/abdullokhonz"><img src="https://komarev.com/ghpvc/?username=abdullokhonz&color=red&style=rounded&label=Profile%20Views" /></a>
 </div>
 
 <p align="center">
