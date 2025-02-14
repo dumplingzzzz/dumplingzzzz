@@ -4,7 +4,7 @@
   <a href="https://github.com/abdullokhonz"><img height="300" width="600" src="assets/decorations/Mario.gif" /></a>
 </div>
 
-<h1 align="center">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> My name is Abdullokhon.</h1>
+<h1 align="center">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> My name is Jonas.</h1>
 <h3 align="center">✅ Full-Stack | Passion for Development 🔥</h3>
 
 ---
@@ -23,7 +23,7 @@
 
 💻 **I believe code is an art, and I aim to make it both beautiful and efficient.** Full-Stack Developer with a passion for clean architecture, process automation, and creating efficient solutions. In my free time, I experiment with game development and new technologies.
 
-* 🌍  **I'm based in Khujand, Tajikistan.**
+* 🌍  **I'm based in Denmark.**
 * 🚀  **I'm currently working on improving my Full-Stack development skills.** 🛠️
 * 🧠  **I'm learning everything I can.**
 * 🤝  **I'm open to collaborating on interesting Full-Stack projects.** 🌍
