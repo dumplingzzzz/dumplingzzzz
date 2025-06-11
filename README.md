@@ -1,22 +1,37 @@
 <br clear="both" />
 
 <div align="center">
-  <a href="https://github.com/abdullokhonz"><img height="300" width="600" src="assets/decorations/Mario.gif" /></a>
+  <a href="https://github.com/abdullokhonz">
+    <img height="300" width="600" src="assets/decorations/Mario.gif" />
+  </a>
 </div>
 
-<h1 align="center">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> I'm Abdullokhon, 17</h1>
+<h1 align="center">
+  Hi!
+  <a href="https://github.com/abdullokhonz">
+    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30">
+  </a>
+  I'm Abdullokhon, 17
+</h1>
+
 <h3 align="center">✅ Full-Stack Developer | Passion for Development 🔥</h3>
 
+<div align="center">
+  <a href="https://github.com/abdullokhonz">
+    <img src="https://img.shields.io/github/followers/abdullokhonz?label=Followers&color=FF00D5&style=flat&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/abdullokhonz">
+    <img src="https://komarev.com/ghpvc/?username=abdullokhonz&label=Visitors&color=8900FF&style=flat" alt="Visitor Badge" />
+  </a>
+</div>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullokhonz&label=Visitors&color=0e75b6&style=flat" alt="visitor badge"/>
-  <img src="https://img.shields.io/github/followers/abdullokhonz?label=Followers&style=flat&logo=github" alt="GitHub followers"/>
+  <a href="https://github.com/abdullokhonz">
+    <img width="600" src="assets/decorations/github-snake.svg" alt="snake"/>
+  </a>
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://github.com/abdullokhonz"><img width="600" src="assets/decorations/github-snake.svg" alt="snake"/></a>
-</p>
 
 ### 🧠 About Me
 
