@@ -110,7 +110,7 @@ In my free time, I experiment with game development and new technologies.
       </td>
       <td align="center">
         <a href="https://github.com/abdullokhonz">
-          <img width="300" src="assets/spotify/Godzilla.svg" alt="spotify_eminem_godzilla"/>
+          <img width="300" src="assets/spotify/WhenIGrowUp.svg" alt="spotify_nf_when-i-grow-up"/>
         </a>
       </td>
     </tr>
