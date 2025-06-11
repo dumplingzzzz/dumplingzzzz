@@ -64,28 +64,28 @@ In my free time, I experiment with game development and new technologies.
     <tr>
       <td align="center">
         <b>🌐 Web Technologies</b><br><br>
-        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/html5.svg" height="45"/></a>
-        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/css3.svg" height="45"/></a>
-        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/javascript.svg" height="45"/></a>
-        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/typescript.svg" height="45"/></a><br>
-        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/angular.svg" height="45"/></a>
-        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/sass.svg" height="45"/></a>
-        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/bootstrap5.svg" height="45"/></a>
-        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/figma.svg" height="45"/></a>
+        <a href="https://html.com/"><img src="assets/skills/html5.svg" height="45"/></a>
+        <a href="https://www.w3schools.com/css/"><img src="assets/skills/css3.svg" height="45"/></a>
+        <a href="https://www.javascript.com/"><img src="assets/skills/javascript.svg" height="45"/></a>
+        <a href="https://www.typescriptlang.org/"><img src="assets/skills/typescript.svg" height="45"/></a><br>
+        <a href="https://angular.dev/"><img src="assets/skills/angular.svg" height="45"/></a>
+        <a href="https://sass-lang.com/"><img src="assets/skills/sass.svg" height="45"/></a>
+        <a href="https://getbootstrap.com/"><img src="assets/skills/bootstrap5.svg" height="45"/></a>
+        <a href="https://www.figma.com/"><img src="assets/skills/figma.svg" height="45"/></a>
       </td>
       <td align="center">
         <b>🧠 Logic & APIs</b><br><br>
-        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/csharp.svg" height="45"/></a>
-        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/dotnetcore.png" height="45"/></a>
-        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/python.svg" height="45"/></a><br>
-        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/django.svg" height="45"/></a>
-        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/nodejs.svg" height="45"/></a>
-        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/postgresql.svg" height="45"/></a>
+        <a href="https://dotnet.microsoft.com/languages/csharp"><img src="assets/skills/csharp.svg" height="45"/></a>
+        <a href="https://dotnet.microsoft.com/"><img src="assets/skills/dotnetcore.png" height="45"/></a>
+        <a href="https://www.python.org/"><img src="assets/skills/python.svg" height="45"/></a><br>
+        <a href="https://www.djangoproject.com/"><img src="assets/skills/django.svg" height="45"/></a>
+        <a href="https://nodejs.org/"><img src="assets/skills/nodejs.svg" height="45"/></a>
+        <a href="https://www.postgresql.org/"><img src="assets/skills/postgresql.svg" height="45"/></a>
       </td>
       <td align="center">
         <b>⚙️ Tools & DevOps</b><br><br>
-        <a href="https://github.com/abdullokhonz"><img src="assets/skills/git.svg" height="45"/></a><br>
-        <a href="https://github.com/abdullokhonz"><img src="assets/skills/docker.svg" height="45"/></a>
+        <a href="https://git-scm.com/"><img src="assets/skills/git.svg" height="45"/></a><br>
+        <a href="https://www.docker.com/"><img src="assets/skills/docker.svg" height="45"/></a>
       </td>
     </tr>
   </table>
