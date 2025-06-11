@@ -1,84 +1,38 @@
-<br clear="both">
+<br clear="both" />
 
 <div align="center">
   <a href="https://github.com/abdullokhonz"><img height="300" width="600" src="assets/decorations/Mario.gif" /></a>
 </div>
 
-<h1 align="center">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> My name is Jonas,<br>I'm 16 years old.</h1>
-<h3 align="center">✅ Full-Stack | Passion for Development 🔥</h3>
+<h1 align="center">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> I'm Abdullokhon, 17</h1>
+<h3 align="center">✅ Full-Stack Developer | Passion for Development 🔥</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdullokhonz&label=Visitors&color=0e75b6&style=flat" alt="visitor badge"/>
+  <img src="https://img.shields.io/github/followers/abdullokhonz?label=Followers&style=flat&logo=github" alt="GitHub followers"/>
+</p>
 
 ---
-
-<div align="center">
-  <a href="https://github.com/abdullokhonz"><img src="assets/stats/followers-count.svg" alt="Followers Count" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/abdullokhonz"><img src="https://komarev.com/ghpvc/?username=abdullokhonz&color=red&style=rounded&label=Profile%20Views" /></a>
-</div>
 
 <p align="center">
   <a href="https://github.com/abdullokhonz"><img width="600" src="assets/decorations/github-snake.svg" alt="snake"/></a>
 </p>
 
-### 📌 About Me
+### 🧠 About Me
 
-💻 **I believe code is an art, and I aim to make it both beautiful and efficient.** Full-Stack Developer with a passion for clean architecture, process automation, and creating efficient solutions. In my free time, I experiment with game development and new technologies.
+💻 I believe code is an art, and I aim to make it both beautiful and efficient.  
+Full-Stack Developer with a passion for clean architecture, process automation, and creating elegant solutions.  
+In my free time, I experiment with game development and new technologies.
 
-* 🌍  **I'm based in Denmark.**
-* 🚀  **I'm currently working on improving my Full-Stack development skills.** 🛠️
-* 🧠  **I'm learning everything I can.**
-* 🤝  **I'm open to collaborating on interesting Full-Stack projects.** 🌍
-* ⚡  **I love writing clean and maintainable code.** ✨
-
----
-
-### 💪 My Skills Set
-
-<table><tr><td valign="top" width="40%">
-
-### 🎨 Frontend
-
-<div align="center">
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="assets/skills/html5.svg" alt="HTML5" height="50" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="assets/skills/css3.svg" alt="CSS3" height="50" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="assets/skills/javascript.svg" alt="JavaScript" height="50" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="assets/skills/typescript.svg" alt="TypeScript" height="50" /></a>
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="assets/skills/angular.svg" alt="Angular" height="50" /></a>
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="assets/skills/figma.svg" alt="Figma" height="50" /></a>
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="assets/skills/sass.svg" alt="Sass" height="50" /></a>
-<a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="assets/skills/bootstrap5.svg" alt="Bootstrap" height="50" /></a>
-</div>
-
-</td><td valign="top" width="40%">
-
-### 🛠 Backend
-
-<div align="center">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="assets/skills/csharp.svg" alt="C#" height="50" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="assets/skills/python.svg" alt="Python" height="50" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="assets/skills/postgresql.svg" alt="PostgreSQL" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="assets/skills/git.svg" alt="Git" height="50" /></a>
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="assets/skills/dotnetcore.png" alt=".Net Core" height="50" /></a>
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="assets/skills/nodejs.svg" alt="Node.js" height="50" /></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="assets/skills/django.svg" alt="Django" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="assets/skills/docker.svg" alt="Docker" height="50" /></a>
-</div>
-
-</td><td valign="top" width="20%">
-
-### 🧑‍💻 Editors
-
-<div align="center">
-<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="assets/editors/VisualStudioCode.svg" alt="VisualStudioCode" height="50" /></a>
-<a href="https://visualstudio.microsoft.com/" target="_blank"><img style="margin: 10px" src="assets/editors/VisualStudio.svg" alt="VisualStudio" height="50" /></a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img style="margin: 10px" src="assets/editors/PyCharm.svg" alt="PyCharm" height="50" /></a>
-<a href="https://www.jetbrains.com/webstorm/" target="_blank"><img style="margin: 10px" src="assets/editors/WebStorm.svg" alt="WebStorm" height="50" /></a>
-</div>
-
-</td></tr></table>
+- 🌍  Based in **Khujand, Tajikistan**
+- 🚀  Currently improving my **Full-Stack** skills
+- 🧠  Always learning something new
+- 🤝  Open to collaborating on exciting projects
+- ✨  Love writing clean, scalable code
 
 ---
 
-### 📞 Connect with me
+### 📬 Connect with Me
 
 <div align="center">
   <a href="https://t.me/abdullokhonz"><img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram"/></a>
@@ -92,49 +46,85 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 💼 Tech Stack
 
 <div align="center">
-  <a href="https://github.com/abdullokhonz"><img src="assets/stats/github-stats.svg" alt="GitHub Stats" /></a>
+  <table>
+    <tr>
+      <td align="center">
+        <b>🌐 Web Technologies</b><br><br>
+        <img src="assets/skills/html5.svg" height="45"/>
+        <img src="assets/skills/css3.svg" height="45"/>
+        <img src="assets/skills/javascript.svg" height="45"/>
+        <img src="assets/skills/typescript.svg" height="45"/><br>
+        <img src="assets/skills/angular.svg" height="45"/>
+        <img src="assets/skills/sass.svg" height="45"/>
+        <img src="assets/skills/bootstrap5.svg" height="45"/>
+        <img src="assets/skills/figma.svg" height="45"/>
+      </td>
+      <td align="center">
+        <b>🧠 Logic & APIs</b><br><br>
+        <img src="assets/skills/csharp.svg" height="45"/>
+        <img src="assets/skills/dotnetcore.png" height="45"/>
+        <img src="assets/skills/python.svg" height="45"/><br>
+        <img src="assets/skills/django.svg" height="45"/>
+        <img src="assets/skills/nodejs.svg" height="45"/>
+        <img src="assets/skills/postgresql.svg" height="45"/>
+      </td>
+      <td align="center">
+        <b>⚙️ Tools & DevOps</b><br><br>
+        <img src="assets/skills/git.svg" height="45"/><br>
+        <img src="assets/skills/docker.svg" height="45"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 🌐 Top Languages
+### 📊 GitHub Overview
 
 <div align="center">
-  <a href="https://github.com/abdullokhonz"><img src="assets/stats/top-langs.svg" alt="Top Languages" /></a>
+  <table>
+    <tr>
+      <td><img src="assets/stats/github-stats.svg" width="380px"/></td>
+      <td rowspan="2"><img src="assets/stats/top-langs.svg" width="300px"/></td>
+    </tr>
+    <tr>
+      <td><img src="assets/stats/github-trophies.svg" width="380px"/></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🧩 LeetCode & 🎧 Spotify
 
 <div align="center">
-  <a href="https://github.com/abdullokhonz"><img src="assets/stats/github-trophies.svg" alt="GitHub Trophies" /></a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://leetcode.com/abdullokhon/">
+          <img src="https://leetcard.jacoblin.cool/abdullokhon?ext=activity" alt="LeetCode Stats"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/abdullokhonz">
+          <img width="300" src="assets/spotify/Godzilla.svg" alt="spotify_eminem_godzilla"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 💡 LeetCode Stats
+### 👾 Coding Vibe
 
-<p align="center">
-  <a href="https://leetcode.com/abdullokhon/"><img src="https://leetcard.jacoblin.cool/abdullokhon?ext=activity" /></a>
-</p>
-
----
-
-### 🎧 Spotify Playing
-
-<div align="center">
-  <a href="https://github.com/abdullokhonz"><img src="assets/spotify/Godzilla.svg" alt="spotify_eminem_godzilla"></a>
-</div>
-
----
-
-### 🧑‍💻 About this profile
-- This is a **custom GitHub profile** showcasing my work and **developer stats**. #GitHubProfile #DeveloperProfile #PersonalPortfolio
-
-<div align="center">
-  <a href="https://github.com/abdullokhonz"><img width="500" src="assets/decorations/CodingVibe.gif" /></a>
+<div align="center" style="background-color: #111111; padding: 10px; border-radius: 10px;">
+  <a href="https://github.com/abdullokhonz">
+    <img width="500" src="assets/decorations/CodingVibe.gif" alt="Coding Vibe"/>
+  </a>
+  <br><br>
+  <em style="color:gray;">Coding in flow... 👨‍💻🎮</em>
 </div>
