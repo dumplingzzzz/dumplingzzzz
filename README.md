@@ -17,12 +17,8 @@
 <h3 align="center">✅ Full-Stack Developer | Passion for Development 🔥</h3>
 
 <div align="center">
-  <a href="https://github.com/abdullokhonz">
-    <img src="https://img.shields.io/github/followers/abdullokhonz?label=Followers&color=FF00D5&style=flat&logo=github" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/abdullokhonz">
-    <img src="https://komarev.com/ghpvc/?username=abdullokhonz&label=Visitors&color=8900FF&style=flat" alt="Visitor Badge" />
-  </a>
+  <a href="https://github.com/abdullokhonz"><img src="https://img.shields.io/github/followers/abdullokhonz?label=Followers&color=FF00D5&style=flat&logo=github" alt="GitHub Followers" /></a>
+  <a href="https://github.com/abdullokhonz"><img src="https://komarev.com/ghpvc/?username=abdullokhonz&label=Visitors&color=8900FF&style=flat" alt="Visitor Badge" /></a>
 </div>
 
 <p align="center">
@@ -33,7 +29,7 @@
 
 ---
 
-### 🧠 About Me
+### 👨‍💻 About Me
 
 💻 I believe code is an art, and I aim to make it both beautiful and efficient.  
 Full-Stack Developer with a passion for clean architecture, process automation, and creating elegant solutions.  
@@ -41,7 +37,7 @@ In my free time, I experiment with game development and new technologies.
 
 - 🌍  Based in **Khujand, Tajikistan**
 - 🚀  Currently improving my **Full-Stack** skills
-- 🧠  Always learning something new
+- 🔎  Always learning something new
 - 🤝  Open to collaborating on exciting projects
 - ✨  Love writing clean, scalable code
 
@@ -51,7 +47,7 @@ In my free time, I experiment with game development and new technologies.
 
 <div align="center">
   <a href="https://t.me/abdullokhonz"><img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram"/></a>
-  <a href="https://www.instagram.com/abdullokhonz"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/abdullokhonz_"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/></a>
   <a href="https://www.linkedin.com/in/abdullokhon-ghaibulloev-a24a8430a"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://discord.com/users/1338846895707000862"><img src="https://img.icons8.com/fluency/48/discord.png" alt="Discord"/></a>
   <a href="https://x.com/abdullokhonz"><img src="https://img.icons8.com/ios-filled/50/x.png" alt="X (Twitter)"/></a>
@@ -68,28 +64,28 @@ In my free time, I experiment with game development and new technologies.
     <tr>
       <td align="center">
         <b>🌐 Web Technologies</b><br><br>
-        <img src="assets/skills/html5.svg" height="45"/>
-        <img src="assets/skills/css3.svg" height="45"/>
-        <img src="assets/skills/javascript.svg" height="45"/>
-        <img src="assets/skills/typescript.svg" height="45"/><br>
-        <img src="assets/skills/angular.svg" height="45"/>
-        <img src="assets/skills/sass.svg" height="45"/>
-        <img src="assets/skills/bootstrap5.svg" height="45"/>
-        <img src="assets/skills/figma.svg" height="45"/>
+        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/html5.svg" height="45"/></a>
+        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/css3.svg" height="45"/></a>
+        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/javascript.svg" height="45"/></a>
+        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/typescript.svg" height="45"/></a><br>
+        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/angular.svg" height="45"/></a>
+        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/sass.svg" height="45"/></a>
+        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/bootstrap5.svg" height="45"/></a>
+        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/figma.svg" height="45"/></a>
       </td>
       <td align="center">
         <b>🧠 Logic & APIs</b><br><br>
-        <img src="assets/skills/csharp.svg" height="45"/>
-        <img src="assets/skills/dotnetcore.png" height="45"/>
-        <img src="assets/skills/python.svg" height="45"/><br>
-        <img src="assets/skills/django.svg" height="45"/>
-        <img src="assets/skills/nodejs.svg" height="45"/>
-        <img src="assets/skills/postgresql.svg" height="45"/>
+        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/csharp.svg" height="45"/></a>
+        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/dotnetcore.png" height="45"/></a>
+        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/python.svg" height="45"/></a><br>
+        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/django.svg" height="45"/></a>
+        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/nodejs.svg" height="45"/></a>
+        <a href="https://github.com/abdullokhonz" target="_blank" rel="noopener noreferrer"><img src="assets/skills/postgresql.svg" height="45"/></a>
       </td>
       <td align="center">
         <b>⚙️ Tools & DevOps</b><br><br>
-        <img src="assets/skills/git.svg" height="45"/><br>
-        <img src="assets/skills/docker.svg" height="45"/>
+        <a href="https://github.com/abdullokhonz"><img src="assets/skills/git.svg" height="45"/></a><br>
+        <a href="https://github.com/abdullokhonz"><img src="assets/skills/docker.svg" height="45"/></a>
       </td>
     </tr>
   </table>
@@ -102,11 +98,23 @@ In my free time, I experiment with game development and new technologies.
 <div align="center">
   <table>
     <tr>
-      <td><img src="assets/stats/github-stats.svg" width="380px"/></td>
-      <td rowspan="2"><img src="assets/stats/top-langs.svg" width="300px"/></td>
+      <td>
+        <a href="https://github.com/abdullokhonz">
+          <img src="assets/stats/github-stats.svg" width="380px"/>
+        </a>
+      </td>
+      <td rowspan="2">
+        <a href="https://github.com/abdullokhonz">
+          <img src="assets/stats/top-langs.svg" width="300px"/>
+        </a>
+      </td>
     </tr>
     <tr>
-      <td><img src="assets/stats/github-trophies.svg" width="380px"/></td>
+      <td>
+        <a href="https://github.com/abdullokhonz">
+          <img src="assets/stats/github-trophies.svg" width="380px"/>
+        </a>
+      </td>
     </tr>
   </table>
 </div>
