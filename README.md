@@ -11,7 +11,7 @@
   <a href="https://github.com/abdullokhonz">
     <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30">
   </a>
-  I'm Abdullokhon, 17
+  I'm Jimmy, 24
 </h1>
 
 <h3 align="center">✅ Full-Stack Developer | Passion for Development 🔥</h3>
@@ -35,7 +35,7 @@
 Full-Stack Developer with a passion for clean architecture, process automation, and creating elegant solutions.  
 In my free time, I experiment with game development and new technologies.
 
-- 🌍  Based in **Khujand, Tajikistan**
+- 🌍  Based in **New York, USA**
 - 🚀  Currently improving my **Full-Stack** skills
 - 🔎  Always learning something new
 - 🤝  Open to collaborating on exciting projects
