@@ -125,8 +125,8 @@
       <g class="stagger" style="animation-delay: 100ms">
         <path
           data-testid="lang-pie"
-          size="45.699102424293265"
-          d="M 150 100 L 240 100 A 90 90 0 0 1 63.26622379852964 124.02607054499869 Z"
+          size="46.00465781259644"
+          d="M 150 100 L 240 100 A 90 90 0 0 1 62.82096891168936 122.3565770748424 Z"
           fill="#178600"
         />
       </g>
@@ -134,8 +134,8 @@
       <g class="stagger" style="animation-delay: 200ms">
         <path
           data-testid="lang-pie"
-          size="33.58849928697257"
-          d="M 150 100 L 63.26622379852964 124.02607054499869 A 90 90 0 0 1 173.9536044432208 13.246182595935792 Z"
+          size="33.39949418023666"
+          d="M 150 100 L 62.82096891168936 122.3565770748424 A 90 90 0 0 1 174.5882607756776 13.42392113275588 Z"
           fill="#3572A5"
         />
       </g>
@@ -143,8 +143,8 @@
       <g class="stagger" style="animation-delay: 300ms">
         <path
           data-testid="lang-pie"
-          size="15.007256102675951"
-          d="M 150 100 L 173.9536044432208 13.246182595935792 A 90 90 0 0 1 234.27929243891248 68.42467947912056 Z"
+          size="14.9228091014192"
+          d="M 150 100 L 174.5882607756776 13.42392113275588 A 90 90 0 0 1 234.34281179136616 68.59474408437045 Z"
           fill="#e34c26"
         />
       </g>
@@ -152,8 +152,8 @@
       <g class="stagger" style="animation-delay: 400ms">
         <path
           data-testid="lang-pie"
-          size="3.300016777116014"
-          d="M 150 100 L 234.27929243891248 68.42467947912056 A 90 90 0 0 1 238.97429834846542 86.45104308818337 Z"
+          size="3.2814473251777123"
+          d="M 150 100 L 234.34281179136616 68.59474408437045 A 90 90 0 0 1 238.985787608464 86.52670776308416 Z"
           fill="#663399"
         />
       </g>
@@ -161,8 +161,8 @@
       <g class="stagger" style="animation-delay: 500ms">
         <path
           data-testid="lang-pie"
-          size="1.5179934569247546"
-          d="M 150 100 L 238.97429834846542 86.45104308818337 A 90 90 0 0 1 239.86022282911784 94.98598433376114 Z"
+          size="1.509451589278356"
+          d="M 150 100 L 238.985787608464 86.52670776308416 A 90 90 0 0 1 239.86179107570229 95.01416961110482 Z"
           fill="#3178c6"
         />
       </g>
@@ -170,8 +170,8 @@
       <g class="stagger" style="animation-delay: 600ms">
         <path
           data-testid="lang-pie"
-          size="0.2956127841624025"
-          d="M 150 100 L 239.86022282911784 94.98598433376114 A 90 90 0 0 1 239.93784731392304 96.65580793950711 Z"
+          size="0.29394934795628463"
+          d="M 150 100 L 239.86179107570229 95.01416961110482 A 90 90 0 0 1 239.93854474255835 96.67461737677704 Z"
           fill="#c6538c"
         />
       </g>
@@ -179,8 +179,8 @@
       <g class="stagger" style="animation-delay: 700ms">
         <path
           data-testid="lang-pie"
-          size="0.29146044794899756"
-          d="M 150 100 L 239.93784731392304 96.65580793950711 A 90 90 0 0 1 239.98400545497478 98.30330843136743 Z"
+          size="0.289820377262801"
+          d="M 150 100 L 239.93854474255835 96.67461737677704 A 90 90 0 0 1 239.98418494837236 98.31285472554391 Z"
           fill="#A97BFF"
         />
       </g>
@@ -188,8 +188,8 @@
       <g class="stagger" style="animation-delay: 800ms">
         <path
           data-testid="lang-pie"
-          size="0.24419092358023653"
-          d="M 150 100 L 239.98400545497478 98.30330843136743 A 90 90 0 0 1 239.99944550850785 99.68407570348955 Z"
+          size="0.24281684219657906"
+          d="M 150 100 L 239.98418494837236 98.31285472554391 A 90 90 0 0 1 239.9994517312779 99.68585342692042 Z"
           fill="#f1e05a"
         />
       </g>
@@ -197,8 +197,8 @@
       <g class="stagger" style="animation-delay: 900ms">
         <path
           data-testid="lang-pie"
-          size="0.05410619914436709"
-          d="M 150 100 L 239.99944550850785 99.68407570348955 A 90 90 0 0 1 239.9999994487032 99.99003840264541 Z"
+          size="0.05380173933933133"
+          d="M 150 100 L 239.9994517312779 99.68585342692042 A 90 90 0 0 1 239.99999945489014 99.99009445733084 Z"
           fill="#dea584"
         />
       </g>
@@ -206,8 +206,8 @@
       <g class="stagger" style="animation-delay: 1000ms">
         <path
           data-testid="lang-pie"
-          size="0.0017615971814445095"
-          d="M 150 100 L 239.9999994487032 99.99003840264541 A 90 90 0 0 1 240 99.99999999999997 Z"
+          size="0.001751684536629392"
+          d="M 150 100 L 239.99999945489014 99.99009445733084 A 90 90 0 0 1 240 99.99999999999982 Z"
           fill="#3B2F63"
         />
       </g>
@@ -220,42 +220,42 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# 45.70%
+        C# 46.00%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 33.59%
+        Python 33.40%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 15.01%
+        HTML 14.92%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 3.30%
+        CSS 3.28%
       </text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 1.52%
+        TypeScript 1.51%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#c6538c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        SCSS 0.30%
+        SCSS 0.29%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
