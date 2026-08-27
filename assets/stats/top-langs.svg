@@ -127,7 +127,7 @@
           data-testid="lang-pie"
           size="52.664249434674645"
           d="M 150 100 L 240 100 A 90 90 0 1 1 61.25807810432906 85.00429067157411 Z"
-          fill="#178600"
+          fill="#7355dd"
         />
       </g>
     
@@ -218,7 +218,7 @@
         <svg data-testid="lang-names" x="25">
           <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#178600" />
+      <circle cx="5" cy="6" r="5" fill="#7355dd" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         C# 52.66%
       </text>
